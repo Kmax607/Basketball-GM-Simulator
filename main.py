@@ -21,8 +21,8 @@ coach_mvps = 0
 coach_seasons = 0
 
 
-first_name = ["Max", "Joe", "Teddy", "Xavier", "Miguel", "Anthony", "Richie", "Jeff", "Ethan", "Josh", "Noah", "Eli", "Ed", "Troy", "Annie", "Shirley", "Dean", "Ben", "Jacob", "Kevin", "Christina", "Lou", "Mike", "Michael", "Patrick", "Len", "Paul", "CJ", "John", "Jon", "Ally", "Andre", "Pierce", "Rob", "Joel", "Jacoby", "Mark", "JJ", "Kate", "Katie", "Zach", "Coby", "Brian", "Alfred", "Lamar", "Deshaun", "Mitch", "Chase", "Will", "Roger", "Amy", "Scout", "Molly", "Anna", "Julie", "Julia", "Wendy", "Alex", "Gene", "Roslyn", "Austin", "Tavon", "Collin", "Jacoby", "Jonah", "Thomas", "Taylor", "James", "Mary", "Jen", "Susan", "Sarah", "David", "Abby", "Margaret", "Diane", "Warren", "Joey", "Robin", "Lily", "Monica", "Jim", "Pam", "Ryan", "Carson", "Kelly", "Stan", "Stanley", "Parker", "Marshall", "Brandon", "Kareem", "Jabari", "Logan", "Brittney", "Bridget", "Vincent", "Phil", "Brad", "Peter", "Randy", "Emmanuel", "Clark", "Ava", "Scott", "Adam", "Daniel", "Hannah", "Nelson", "Rick", "Morty", "Summer", "Jerry", "Homer", "Lisa", "Maggie", "Meg", "Chris", "Stew", "Tina", "Louise", "Bob", "Bobby", "Gabe", "Evan", "Rachel", "Emma", "Grace", "Kyle", "Kyra", "Carmen", "Carter", "Steve", "Steven", "Aaron", "Erin", "Charlie", "Morgan", "Quinn", "Robert", "Mack", "Jackson", "Haley", "Luke", "Lucas", "Luka", "Tatiana", "Katarina", "Oliver", "Rhonda", "Harrison", "Harry", "Carla", "May", "April", "June", "Hugh", "Cole", "Allen", "Kenny", "Kevin", "Gwen", "Stacy", "Jeff", "Derek", "Rose", "Jimmy", "Joakim", "Tyler", "Ty", "Nathan", "Nate", "Hila", "Jason", "Fred", "Carrie", "Frances", "Francis", "Malcolm", "Reese", "Hal", "Lois", "Frank", "Jess", "Brooke", "Nolan", "Niko", "Brennan", "Drew", "Dakota", "Olivia", "Tony", "Antonio", "Jack", "Jane", "Ron", "Jude", "Howard", "Bruce", "Doris", "Vandan", "Timothy", "Lane"]
-last_name = ["Kraus", "Chaiken", "Harris", "Smith", "Johnson", "Wufsus", "Rudd", "Kruger", "Shah", "Winger", "Malone", "Barnes", "Bryant", "Ali", "Scott", "Edwards", "Patrick", "Hershey", "Belg", "Snow", "Stark", "Fields", "Kammen", "Greenberg", "Jackson", "Carter", "McGrane", "Kornfeld", "White", "Black", "Turner", "Thomson", "Cranston", "Banks", "Watson", "Young", "Venable", "Watt", "Werth", "Hendricks", "Gilfoyle", "Woods", "Pecan", "Haut", "Hooper", "Liu", "Austin", "Price", "Williams", "Collins", "Jones", "Davis", "Green", "Robinson", "Thomas", "Wright", "Taylor", "Gabriel", "Miller", "King", "Lee", "Lew", "Walker", "Hamilton", "James", "Hill", "Gonzales", "Beasley", "Hall", "Marshall", "Hoover", "Parker", "Houston", "Granger", "Brown", "Garcia", "Sanders", "Rodriguez", "Hernandez", "Wilson", "Anderson", "Moore", "Lee", "Perez", "Clark", "King", "Scott", "Torres", "Adams", "Nelson", "Bighetti", "Baker", "Roberts", "Evans", "Diaz", "Simpson", "Blake", "Griffin", "Lewis", "Evans", "Cox", "Carter", "Tanaka", "Suzuki", "Stoker", "Morgan", "Quinn", "Mack", "Amend", "May", "Vasquez", "Stills", "Miller", "Jeffrey", "Rose", "Butler", "Noah", "Gasol", "Glasnow", "Robinson", "Fielder", "Pera", "Happ", "Souza", "Lavine", "Klein", "Armisen", "Brownstein", "Perkins", "Wilkerson", "Olson", "Franklin", "Brooks", "Nolan", "Ryan", "Shedlock", "Schwartz", "Singer", "Reed", "Richards", "Swanson", "Bush", "Morris", "Potter", "Weasley", "Law", "Luck", "Burback", "Burke", "Shanahan", "Lynch", "Walsh", "Cain", "Kane", "Lane"]
+first_name = ["Max", "Joe", "Teddy", "Xavier", "Miguel", "Anthony", "Richie", "Jeff", "Ethan", "Josh", "Noah", "Eli", "Ed", "Troy", "Annie", "Shirley", "Dean", "Ben", "Jacob", "Kevin", "Christina", "Lou", "Mike", "Michael", "Patrick", "Len", "Paul", "CJ", "John", "Jon", "Ally", "Andre", "Pierce", "Rob", "Joel", "Jacoby", "Mark", "JJ", "Kate", "Katie", "Zach", "Coby", "Brian", "Alfred", "Lamar", "Deshaun", "Mitch", "Chase", "Will", "Roger", "Amy", "Scout", "Molly", "Anna", "Julie", "Julia", "Wendy", "Alex", "Gene", "Roslyn", "Austin", "Tavon", "Collin", "Jacoby", "Jonah", "Thomas", "Taylor", "James", "Mary", "Jen", "Susan", "Sarah", "David", "Abby", "Margaret", "Diane", "Warren", "Joey", "Robin", "Lily", "Monica", "Jim", "Pam", "Ryan", "Carson", "Kelly", "Stan", "Stanley", "Parker", "Marshall", "Brandon", "Kareem", "Jabari", "Logan", "Brittney", "Bridget", "Vincent", "Phil", "Brad", "Peter", "Randy", "Emmanuel", "Clark", "Ava", "Scott", "Adam", "Daniel", "Hannah", "Nelson", "Rick", "Morty", "Summer", "Jerry", "Homer", "Lisa", "Maggie", "Meg", "Chris", "Stew", "Tina", "Louise", "Bob", "Bobby", "Gabe", "Evan", "Rachel", "Emma", "Grace", "Kyle", "Kyra", "Carmen", "Carter", "Steve", "Steven", "Aaron", "Erin", "Charlie", "Morgan", "Quinn", "Robert", "Mack", "Jackson", "Haley", "Luke", "Lucas", "Luka", "Tatiana", "Katarina", "Oliver", "Rhonda", "Harrison", "Harry", "Carla", "May", "April", "June", "Hugh", "Cole", "Allen", "Kenny", "Kevin", "Gwen", "Stacy", "Jeff", "Derek", "Rose", "Jimmy", "Joakim", "Tyler", "Ty", "Nathan", "Nate", "Hila", "Jason", "Fred", "Carrie", "Frances", "Francis", "Malcolm", "Reese", "Hal", "Lois", "Frank", "Jess", "Brooke", "Nolan", "Niko", "Brennan", "Drew", "Dakota", "Olivia", "Tony", "Antonio", "Jack", "Jane", "Ron", "Jude", "Howard", "Bruce", "Doris", "Vandan", "Timothy", "Lane", "Alexis", "Emily", "Ashley", "Jessica", "Lauren", "Laurie", "John", "Michael", "Sam", "Andrew", "Caroline", "Dan", "Megan", "John", "Kyle", "Kyler", "Bruce"]
+last_name = ["Kraus", "Chaiken", "Harris", "Smith", "Johnson", "Wufsus", "Rudd", "Kruger", "Shah", "Winger", "Malone", "Barnes", "Bryant", "Ali", "Scott", "Edwards", "Patrick", "Hershey", "Belg", "Snow", "Stark", "Fields", "Kammen", "Greenberg", "Jackson", "Carter", "McGrane", "Kornfeld", "White", "Black", "Turner", "Thomson", "Cranston", "Banks", "Watson", "Young", "Venable", "Watt", "Werth", "Hendricks", "Gilfoyle", "Woods", "Pecan", "Haut", "Hooper", "Liu", "Austin", "Price", "Williams", "Collins", "Jones", "Davis", "Green", "Robinson", "Thomas", "Wright", "Taylor", "Gabriel", "Miller", "King", "Lee", "Lew", "Walker", "Hamilton", "James", "Hill", "Gonzales", "Beasley", "Hall", "Marshall", "Hoover", "Parker", "Houston", "Granger", "Brown", "Garcia", "Sanders", "Rodriguez", "Hernandez", "Wilson", "Anderson", "Moore", "Lee", "Perez", "Clark", "King", "Scott", "Torres", "Adams", "Nelson", "Bighetti", "Baker", "Roberts", "Evans", "Diaz", "Simpson", "Blake", "Griffin", "Lewis", "Evans", "Cox", "Carter", "Tanaka", "Suzuki", "Stoker", "Morgan", "Quinn", "Mack", "Amend", "May", "Vasquez", "Stills", "Miller", "Jeffrey", "Rose", "Butler", "Noah", "Gasol", "Glasnow", "Robinson", "Fielder", "Pera", "Happ", "Souza", "Lavine", "Klein", "Armisen", "Brownstein", "Perkins", "Wilkerson", "Olson", "Franklin", "Brooks", "Nolan", "Ryan", "Shedlock", "Schwartz", "Singer", "Reed", "Richards", "Swanson", "Bush", "Morris", "Potter", "Weasley", "Law", "Luck", "Burback", "Burke", "Shanahan", "Lynch", "Walsh", "Cain", "Kane", "Lane", "Michaels", "Matthews", "Evans", "Trubisky", "Murray", "Allen", "Jobs", "Jeffrey", "Barkley", "Coulton", "Phillips", "Ray"]
 
 
 position = ["PG", "SG", "SF", "PF", "C"]
@@ -181,9 +181,13 @@ def age_matters():
   global small_forward_contract
   global power_forward_contract
   global center_contract
-  retirement_age = random.choice(age_to_retire)
+  pg_retirement_age = random.choice(age_to_retire)
+  sg_retirement_age = random.choice(age_to_retire)
+  sf_retirement_age = random.choice(age_to_retire)
+  pf_retirement_age = random.choice(age_to_retire)
+  c_retirement_age = random.choice(age_to_retire)
   #replacing retired players
-  if point_guard_age >= retirement_age:
+  if point_guard_age >= pg_retirement_age:
     print(point_guard + " has retired.")
     print()
     point_guard = random.choice(first_name) + " " + random.choice(last_name)
@@ -191,7 +195,7 @@ def age_matters():
     point_guard_defense = random.randint(0, 10) + (.1 * random.randint(0, 10))
     point_guard_contract = random.randint(1, 3)
     point_guard_age = random.randint(19,35)
-  if shooting_guard_age >= retirement_age:
+  if shooting_guard_age >= sg_retirement_age:
     print(shooting_guard + " has retired.")
     print()
     shooting_guard = random.choice(first_name) + " " + random.choice(last_name)
@@ -199,7 +203,7 @@ def age_matters():
     shooting_guard_defense = random.randint(0, 10) + (.1 * random.randint(0, 10))
     shooting_guard_contract = random.randint(1, 3)
     small_forward_age = random.randint(19,35)
-  if small_forward_age >= retirement_age:
+  if small_forward_age >= sf_retirement_age:
     print(small_forward + " has retired.")
     print()
     small_forward = random.choice(first_name) + " " + random.choice(last_name)
@@ -207,7 +211,7 @@ def age_matters():
     small_forward_defense = random.randint(0, 10) + (.1 * random.randint(0, 10))
     small_forward_contract = random.randint(1, 3)
     small_forward_age = random.randint(19,35)
-  if power_forward_age >= retirement_age:
+  if power_forward_age >= pf_retirement_age:
     print(power_forward + " has retired.")
     print()
     power_forward = random.choice(first_name) + " " + random.choice(last_name)
@@ -215,7 +219,7 @@ def age_matters():
     power_forward_defense = random.randint(0, 10) + (.1 * random.randint(0, 10))
     power_forward_contract = random.randint(1, 3)
     power_forward_age = random.randint(19,35)
-  if center_age >= retirement_age:
+  if center_age >= c_retirement_age:
     print(center + " has retired.")
     print()
     center = random.choice(first_name) + " " + random.choice(last_name)
@@ -349,6 +353,11 @@ def start_game():
   global power_forward_age
   global center_age
   global coach_seasons
+  global point_guard_rookie
+  global shooting_guard_rookie
+  global small_forward_rookie
+  global power_forward_rookie
+  global center_rookie
   get_team_name()
   global team_name
   print("Take a look at the " + team_name)
@@ -361,6 +370,7 @@ def start_game():
   print()
   while draft_picks > 0:
     draft()
+  print()
   print("You have no remaining picks.")
   print()
   continue_game = input("Press Enter to Continue ")
@@ -387,41 +397,49 @@ def start_game():
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   propose_trade()
@@ -431,41 +449,49 @@ def start_game():
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   playoff_req = random.randint(8,10)
@@ -478,19 +504,18 @@ def start_game():
   else:
    print(red("The " + team_name + " have missed the playoffs. Better luck next year"))
    print()
-  continue_game = input("Press Enter to Continue ")
+  input("Press Enter to Continue ")
   print()
   get_roty()
-  continue_game = input("Press Enter to Continue ")
+  input("Press Enter to Continue ")
   print()
   get_mvp()
-  continue_game = input("Press Enter to Continue ")
+  input("Press Enter to Continue ")
   print()
   coach_wins += team_wins
   coach_losses += team_losses
   coach_seasons += 1
   retire()
-  print()
   draft_picks += 3
   money += random.randint(4,8)
   point_guard_contract -= 1
@@ -548,7 +573,6 @@ def new_season():
   global small_forward_rookie
   global power_forward_rookie
   global center_rookie
-  age_matters()
   print()
   print_coach_stats()
   print()
@@ -557,6 +581,7 @@ def new_season():
   small_forward_rookie = False
   power_forward_rookie = False
   center_rookie = False
+  age_matters()
   #Replaces players with expired contracts
   ready_for_again = input("Press enter to start a new season ")
   print()
@@ -669,41 +694,49 @@ def new_season():
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   propose_trade()
@@ -712,41 +745,49 @@ def new_season():
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   new_play_game()
   print_record()
   print()
+  get_highlights()
   continue_game = input("Press Enter to Continue ")
   print()
   playoff_req = random.randint(8,10)
@@ -759,11 +800,12 @@ def new_season():
   else:
    print(red("The " + team_name + " have missed the playoffs. Better luck next year"))
    print()
+  continue_game = input("Press Enter to Continue ")
+  print()
   get_roty()
   continue_game = input("Press Enter to Continue ")
   print()
   get_mvp()
-  print()
   continue_game = input("Press Enter to Continue ")
   print()
   retire()
@@ -799,8 +841,10 @@ def hall_of_fame():
   coach_seasons
   coach_rotys
   if coach_wins + (10 * coach_chips) - coach_losses + (5 *coach_mvps) + (3 * coach_rotys) >= 65:
+    print()
     print(yellow("You've cemented your legacy and have been accepted into the hall of fame. Congratulations, coach!"))
   else:
+    print()
     print("You weren't accepted into the hall of fame, but that doesn't mean you had a bad career.")
     print()
 
@@ -852,23 +896,20 @@ def playoffs():
     print()
     if team_won_playoffs == True:
       print()
+      print_trophy()
+      print()
+      print()
       print(yellow("The " + team_name + " are world champions! Let's do it again!"))
       coach_chips += 1
       print()
-      print()
-      champ_bound = input("Press Enter to Continue ")
       print()
     else:
       print()
       print(red("The " + team_name + " have been eliminated. So close but yet so far!"))
       print()
-      champ_bound = input("Press Enter to Continue ")
-      print()
   else:
     print()
     print(red("The " + team_name + " have been eliminated. Better luck next year."))
-    print()
-    champ_bound = input("Press Enter to Continue ")
     print()
 
 
@@ -1063,8 +1104,9 @@ def draft():
        center_age = draft_age_3
        point_guard_rookie = True
      get_team_ovr()
-     continuuuu = input("Press Enter to Continue ")
+     print()
      print_team()
+     continuuuu = input("Press Enter to Continue ")
   draft_picks -= 1
   return point_guard
   return shooting_guard
@@ -1108,6 +1150,178 @@ def print_coach_stats():
   print("In " + str(coach_seasons) + " seasons, your career record is " + str(coach_wins) + "-" + str(coach_losses) + ". You've won " + str(coach_chips) + " championships. You've coached " + str(coach_mvps) + " MVPs and " + str(coach_rotys) + " ROTYs.")
   print()
 
+
+
+
+
+def print_trophy():
+  print(yellow("    ___________"))
+  print(yellow("   '._==_==_=_.'"))
+  print(yellow("   .-\:      /-."))
+  print(yellow("  | (|:.     |) |"))
+  print(yellow("   '-|:.     |-'"))
+  print(yellow("     \::.    /"))
+  print(yellow("      '::. .'"))
+  print(yellow("        ) ("))
+  print(yellow("      _.' '._"))
+  print(yellow("      `'''''`"))
+
+
+
+
+
+
+def print_dunk_1():
+  print("          ________")
+  print("  o      |   __   |")
+  print("   \_ O  |  |__|  |")
+  print(" ____/ \ |___WW___|")
+  print(" __/   /     ||")
+  print("             ||")
+  print("             ||")
+  print("_____________||________________")
+
+
+
+
+
+def print_block():
+  print("  o- - - \              |")
+  print("       /  \o          __|")
+  print("     o/   /|          vv`\ ")
+  print("    /|   / |              |")
+  print("   / |    / \_            |")
+  print("    / \   \               |")
+  print("   /   \                  |")
+
+
+
+
+def print_deep_3():
+  print("            o   ")
+  print("       o        ")
+  print("               o  ")
+  print("/|  o           ")
+  print("\|--            o  ")
+  print("  WW             ")
+  print("                 \ \  ")
+  print("              /   \O")
+  print("             O_/   |")
+  print("             |    /|")
+  print("             |\  | |")
+  print("_____________|_|________")
+
+
+
+highlight_string = ["was named a top 10 play of the week!", "has everyone talking!", "was spectacular!", "was a game changer!", "was on the cover of 'BBall Weekly'!", "was named a top 10 play of the week!", "has everyone talking!", "was spectacular!", "was a game changer!", "was on the cover of 'BBall Weekly'!", "was the play of the season!"]
+
+
+def get_highlights():
+  global point_guard
+  global shooting_guard
+  global small_forward
+  global power_forward
+  global center
+  global point_guard_offense
+  global shooting_guard_offense
+  global small_forward_offense
+  global power_forward_offense
+  global center_offense
+  global point_guard_defense
+  global shooting_guard_defense
+  global small_forward_defense
+  global power_forward_defense
+  global center_defense
+  pg_o_highlight = random.randint(0,22) + point_guard_offense
+  sg_o_highlight = random.randint(0,22) + shooting_guard_offense
+  sf_o_highlight = random.randint(0,22) + small_forward_offense
+  pf_o_highlight = random.randint(0,22) + power_forward_offense
+  c_o_highlight = random.randint(0,22) + center_offense
+  pg_d_highlight = random.randint(0,22) + point_guard_defense
+  sg_d_highlight = random.randint(0,22) + shooting_guard_defense
+  sf_d_highlight = random.randint(0,22) + small_forward_defense
+  pf_d_highlight = random.randint(0,22) + power_forward_defense
+  c_d_highlight = random.randint(0,22) + center_defense
+  pg_o_h = False
+  pg_d_h = False
+  sg_o_h = False
+  sg_d_h = False
+  sf_o_h = False
+  sf_d_h = False
+  pf_o_h = False
+  pf_d_h = False
+  c_o_h = False
+  c_d_h = False
+  if pg_o_highlight >= 32:
+    pg_o_h = True
+  if sg_o_highlight >= 28:
+    sg_o_h = True
+  if sf_o_highlight >= 29:
+    sf_o_h = True
+  if pf_o_highlight >= 29:
+    pf_o_h = True
+  if c_o_highlight >= 32:
+    c_o_h = True
+  if pg_d_highlight >= 33:
+    pg_d_h = True
+  if sg_d_highlight >= 31:
+    sg_d_h = True
+  if sf_d_highlight >= 29:
+    sf_d_h = True
+  if pf_d_highlight >= 29:
+    pf_d_h = True
+  if c_d_highlight >= 28:
+    c_d_h = True
+  if pg_o_h == True:
+    print_deep_3()
+    print()
+    print(point_guard + "'s deep 3 " + random.choice(highlight_string))
+    print()
+  elif sg_o_h == True:
+    print_deep_3()
+    print()
+    print(shooting_guard + "'s deep 3 " + random.choice(highlight_string))
+    print()
+  elif sf_o_h == True:
+    print_dunk_1()
+    print()
+    print(small_forward + "'s slam dunk "+ random.choice(highlight_string))
+    print()
+  elif pf_o_h == True:
+    print_dunk_1()
+    print()
+    print(power_forward + "'s slam dunk " + random.choice(highlight_string))
+    print()
+  elif c_o_h == True:
+    print_deep_3()
+    print()
+    print(center + "'s slam dunk " + random.choice(highlight_string))
+    print()
+  elif pg_d_h == True:
+    print_block()
+    print()
+    print(point_guard + "'s huge block "  + random.choice(highlight_string))
+    print()
+  elif sg_d_h == True:
+    print_block()
+    print()
+    print(shooting_guard + "'s huge block "  + random.choice(highlight_string))
+    print()
+  elif sf_d_h == True:
+    print_block()
+    print()
+    print(small_forward + "'s huge block "  + random.choice(highlight_string))
+    print()
+  elif pf_d_h == True:
+    print_block()
+    print()
+    print(power_forward + "'s huge block " + random.choice(highlight_string))
+    print()
+  elif c_d_h == True:
+    print_block()
+    print()
+    print(center + "'s huge block "  + random.choice(highlight_string))
+    print()
 
 
 
@@ -1159,7 +1373,7 @@ def propose_trade():
   print()
   conntinew = input("Press Enter to Continue ")
   print()
-  trade_ornah = input("Would you like to propose a trade? If you accept a trade, you will lose your bonus from practice (Yes, No) ").lower()
+  trade_ornah = input("Would you like to propose a trade? If you do, you will lose your bonus from practice (Yes, No) ").lower()
   print()
   if trade_ornah == "Yes".lower() or trade_ornah == "Y".lower():
     print_team()
@@ -1168,7 +1382,9 @@ def propose_trade():
     if whos_going == "PG".lower():
       print("PG - " + new_player_name + " - " + str(new_player_off) + " OFF - " + str(new_player_def) + " DEF - " + str(new_player_contract) + " YRS - " + str(new_player_age) + " AGE")
       print()
-      trade_happening = input("The " + trade_partner + " are willing to trade point guard " + new_player_name + " for " + point_guard + " and " + str(draft_picks_req) + " picks in next year's draft. Do you accept? (Yes, No) ").lower()
+      print("The " + trade_partner + " are willing to trade point guard " + new_player_name + " for " + point_guard + " and " + str(draft_picks_req) + " picks in next year's draft.")
+      print()
+      trade_happening = input("Do you accept? (Yes, No) ").lower()
       print()
       if trade_happening == "Yes".lower() or trade_happening == "Y".lower():
         draft_picks -= draft_picks_req
@@ -1183,6 +1399,7 @@ def propose_trade():
       trade_happening = input("The " + trade_partner + " are willing to trade shooting guard " + new_player_name + " for " + shooting_guard + " and " + str(draft_picks_req) + " picks in next year's draft. Do you accept? (Yes, No) ").lower()
       print()
       if trade_happening == "Yes".lower() or trade_happening == "Yes".lower():
+        draft_picks -= draft_picks_req
         shooting_guard = new_player_name
         shooting_guard_offense = new_player_off
         shooting_guard_defense = new_player_def
@@ -1224,7 +1441,7 @@ def propose_trade():
         center_defense = new_player_def
         center_contract = new_player_contract
         center_age = new_player_age
-        get_team_ovr()
+    get_team_ovr()
   print("The midseason lineup for the " + team_name)
   print()
   print_team()
@@ -1300,6 +1517,9 @@ def free_agency():
   if pick == choice_1.lower() and money >= choice_1_cost:
     print()
     print("Welcome to the " + team_name + ", " + choice_1 + "!")
+    print()
+    print_team()
+    continuuuu = input("Press Enter to Continue ")
 #Substitutes free agent into team for choice 1
     if choice_1_pos == "PG":
       point_guard = choice_1
@@ -1334,6 +1554,9 @@ def free_agency():
   if pick == choice_2.lower() and money >= choice_2_cost:
      print()
      print("Welcome to the " + team_name + ", " + choice_2 + "!")
+     print()
+     print_team()
+     continuuuu = input("Press Enter to Continue ")
      new_money -= choice_2_cost
      money = new_money
 #Substitutes free agent into team for choice 2
@@ -1370,6 +1593,9 @@ def free_agency():
   if pick == choice_3.lower() and money >= choice_3_cost:
      print()
      print("Welcome to the " + team_name + ", " + choice_3 + "!")
+     print()
+     print_team()
+     continuuuu = input("Press Enter to Continue ")
      new_money -= choice_2_cost
      money = new_money
 #Substitutes free agent into team for choice 3
@@ -1441,7 +1667,7 @@ def get_strategy():
   global team_defense_ovr
   global random_improvement_age
   practice_success = random.choice(random_improvement_age)
-  whattayawant = input("Would you like to run practices with a focus on offense or defense? (Offense, Defense) ").lower()
+  whattayawant = input("Would you like to run practices with a focus on offense or defense? (OFF, DEF) ").lower()
   print()
   if whattayawant == "offense".lower() or whattayawant == "Off".lower() or whattayawant == "O".lower():
     team_offense_ovr += practice_success
@@ -1467,7 +1693,9 @@ width = 800
 
 def begin_program():
   global width
-  print("Welcome to Head Coach Basketball!")
+  print_dunk_1()
+  print()
+  print("Welcome to My GM Basketball!")
   print()
   continuuuu = input("Press Enter to Continue ")
   print()
@@ -1505,7 +1733,13 @@ def begin_program():
   print()
   continuuuu = input("Press Enter to Continue ")
   print()
-  line_6 = textwrap.wrap("Finally, you will have one chance to trade one of your players at midseason. To choose which player you are willing to trade, enter the player's position abbreviation (PG, SG, SF, PF, C). You will be offered another player with matching position in exchange for your player and 1 or 2 draft picks in next year's draft. When asked if you accept the trade, enter 'Yes' to accept it.")
+  line_8 = textwrap.wrap("Before the season starts, you will be able to boost either your team's offense or defense through practice. To choose between offense or defense, enter 'OFF' or 'DEF'.")
+  print()
+  for line in line_8:
+    print(textwrap.fill(line, width))
+  continuuuu = input("Press Enter to Continue ")
+  print()
+  line_6 = textwrap.wrap("Finally, you will have one chance to trade one of your players at midseason. If you propose a trade, you will lose your team's boost from practice. To choose which player you're willing to trade, enter the player's position abbreviation (PG, SG, SF, PF, C). You will be offered another player with matching position in exchange for your player and 1 or 2 draft picks in next year's draft. When asked if you accept the trade, enter 'Yes' to accept it.")
   for line in line_6:
     print(textwrap.fill(line, width))
   print()
@@ -1531,9 +1765,9 @@ def begin_program():
 
 
 
-team_loc = ["Scranton", "Chicago", "Kingston", "New York", "Tokyo", "Bangkok", "London", "Shanghai", "Dubai", "Singapore", "Hong Kong", "Barcelona", "Melbourne", "Beijing", "Denver", "Boston", "Los Angeles", "Las Vegas", "Berlin", "Rio De Janeiro", "Manchester", "Toronto", "Sydney", "New Orleans", "Kansas City", "Milwaukee", "Charlotte", "Houston", "Atlanta", "Miami", "Orlando", "Cleveland", "Baltimore", "Washington, D.C.", "Minneapolis", "Detroit", "Pheonix", "Indianapolis", "Pittsburgh", "Seattle", "St. Louis", "Dallas", "Philadelphia", "San Francisco", "Newark", "Mexico City", "Cairo", "Buenos Aires", "Lima", "Jacksonville", "Gainesville", "Oklahoma City", "Nashville", "San Antonio", "Louisville", "Memphis", "Charlotte", "Austin", "Tucson", "Columbus", "Granville", "Evanston", "Ocean City", "Providenciales", "San Jose", "Portland", "Salt Lake City", "Stowe", "Brooklyn", "Fort Lauderdale", "Utah", "Vancouver", "Florida", "New England"]
+team_loc = ["Scranton", "Chicago", "Kingston", "New York", "Tokyo", "Bangkok", "London", "Shanghai", "Dubai", "Singapore", "Hong Kong", "Barcelona", "Melbourne", "Beijing", "Denver", "Boston", "Los Angeles", "Las Vegas", "Berlin", "Rio De Janeiro", "Manchester", "Toronto", "Sydney", "New Orleans", "Kansas City", "Milwaukee", "Charlotte", "Houston", "Atlanta", "Miami", "Orlando", "Cleveland", "Baltimore", "Washington, D.C.", "Minneapolis", "Detroit", "Pheonix", "Indianapolis", "Pittsburgh", "Seattle", "St. Louis", "Dallas", "Philadelphia", "San Francisco", "Newark", "Mexico City", "Cairo", "Buenos Aires", "Lima", "Jacksonville", "Gainesville", "Oklahoma City", "Nashville", "San Antonio", "Louisville", "Memphis", "Charlotte", "Austin", "Tucson", "Columbus", "Granville", "Evanston", "Ocean City", "Providenciales", "San Jose", "Portland", "Salt Lake City", "Stowe", "Brooklyn", "Fort Lauderdale", "Utah", "Vancouver", "Florida", "New England", "East Coast", "West Coast", "Mid Atlantic", "Pacific", "Northeast", "Northwest", "Hawaii", "Honolulu", "Southeast", "Southwest"]
 team_adj = ["Red ", "Blue ", "Green ", "Fiery ", "Big ", "Quick ", "Great ", "Yellow ", "Orange ", "Pink ", "Purple ", "Frozen ", "Checkered ", "Striped ", "Dotted ", "Scary ", "Sea ", "Scarlet ", "Screaming ", "Wild ", "Haunted ", "Lethal ", "Mean ", "Mud ", "Raging ", "Deadly ", "Flipping ", "Risky ", "Mad ", "Elite ", "Bloody ", "Robust ", "Mighty ", "Fighting ", "Agile ", "Dead-Eye ", "Dangerous ", "United ", "Magic ", "Hot ", "Baby ", "Daring ", "Shattered ", "Gold ", "Silver ", "Violet ", "Platinum ", "Unbent ", "Invincible ", "Athletic ", "Iron ", "Metal ", "Twisted ", "Crazy ", "Striking ", "Sonic ", "Ice ", "Fire ", "Windy ", "Blazing ", "Smoking ", "Rebel ", "Zombie ", "Patriotic ", "Aero ", "Starry ", "Free ", "Dead ", "Long ", "Gray ", "" , "" , "" , "" , "" , "", "", "", "", "", "", "", "", "Diamond ", "Wood ", "Chrome ", "Lead ", "Mighty ", "Flying ", "River ", "Ocean ", "Desert ", "Sky ", "Armored ", "Unrelenting ", "Fearless ", "Global ", "Genius ", "Butter ", "Electic ", "Hard ", "Rock Solid ", "Wonder ", "Tin ", "Island " "Flash "]
-team_noun = ["Devils", "Demons", "Rangers", "Cats", "Rodents", "Knights", "Royals", "Cannons", "Lightning", "Fury", "Talons", "Tigers", "Sharks", "Swordfish", "Trout", "Fire", "Dogs", "Fangs", "Harpoons", "Hooks", "Guns", "Grizzlies", "Snow", "Sky", "Whales", "Whalers", "Dreams", "Captains", "Rampage", "Dinos", "Scorpions", "Spiders", "Turkeys", "Army", "Bones", "Zombies", "Crew", "Force", "Brutes", "Butchers", "Storm", "Bombs", "Gunners", "Hammerheads", "Angels", "Barbarians", "Squad", "Outlaws", "Rebels", "Reapers", "Nightmares", "Kingpins", "Pythons", "Serpents", "Beasts", "Robots", "Cows", "Bullies", "Bullseyes", "Arrows", "Slam", "Magic", "Lava", "Bulls", "Bears", "Thunder", "Helmets","Swords", "Shields", "T-Rexes", "Pelicans", "Seagulls", "Penguins", "Puffins", "Huskies", "Bulldogs", "Miners", "Pandas", "Dragons", "Jackets", "Steel", "Pirates", "Racers", "Reptiles", "Lunatics", "Chasers", "Gangsters", "Cardinals", "Patriots", "Rhinos", "Punches", "Kicks", "Uppercuts", "Piledrivers", "Cyborgs", "Stars", "Fruit", "Tenors", "Assassins", "Titans", "Missiles", "Colts", "Stallions", "Birds", "Eagles", "Divers", "Dynasty", "Comets", "Ducks", "Hawks", "Falcons", "Warriors", "Minnows", "Globes", "Brians", "Bobcats", "Claws", "Hammers", "Biscuits", "Motors", "Eels", "Thunder", "Flamingos", "Gang", "Terror", "Leaves", "Outlaws", "Predators", "Wings"]
+team_noun = ["Devils", "Demons", "Rangers", "Cats", "Rodents", "Knights", "Royals", "Cannons", "Lightning", "Fury", "Talons", "Tigers", "Sharks", "Swordfish", "Trout", "Fire", "Dogs", "Fangs", "Harpoons", "Hooks", "Guns", "Grizzlies", "Snow", "Sky", "Whales", "Whalers", "Dreams", "Captains", "Rampage", "Dinos", "Scorpions", "Spiders", "Turkeys", "Army", "Bones", "Zombies", "Crew", "Force", "Brutes", "Butchers", "Storm", "Bombs", "Gunners", "Hammerheads", "Angels", "Barbarians", "Squad", "Outlaws", "Rebels", "Reapers", "Nightmares", "Kingpins", "Pythons", "Serpents", "Beasts", "Robots", "Cows", "Bullies", "Bullseyes", "Arrows", "Slam", "Magic", "Lava", "Bulls", "Bears", "Thunder", "Helmets","Swords", "Shields", "T-Rexes", "Pelicans", "Seagulls", "Penguins", "Puffins", "Huskies", "Bulldogs", "Miners", "Pandas", "Dragons", "Jackets", "Steel", "Pirates", "Racers", "Reptiles", "Lunatics", "Chasers", "Gangsters", "Cardinals", "Patriots", "Rhinos", "Punches", "Kicks", "Uppercuts", "Piledrivers", "Cyborgs", "Stars", "Fruit", "Tenors", "Assassins", "Titans", "Missiles", "Colts", "Stallions", "Birds", "Eagles", "Divers", "Dynasty", "Comets", "Ducks", "Hawks", "Falcons", "Warriors", "Minnows", "Globes", "Brians", "Bobcats", "Claws", "Hammers", "Biscuits", "Motors", "Eels", "Thunder", "Flamingos", "Gang", "Terror", "Leaves", "Outlaws", "Predators", "Wings", "Boots"]
 
 
 def new_play_game():
@@ -1562,7 +1796,7 @@ def new_play_game():
   global team_loc
   opponent_1_off = random.randint(3,9) + (.1 * (random.randint(0,20)))
   opponent_1_def = random.randint(3,9) + (.1 * (random.randint(0,20)))
-  x_factor = (.1 * random.randint(10,30))
+  x_factor = (.1 * random.randint(10,35))
   team_offense_performance = team_offense_ovr * x_factor
   team_defense_performance = team_defense_ovr * x_factor
   opponent_off_performance = opponent_1_off * x_factor
@@ -1570,8 +1804,8 @@ def new_play_game():
   opponent_1 = random.choice(team_loc) + " " + random.choice(team_adj) + random.choice(team_noun)
   print(team_name + " - " + str(team_offense_ovr) + " OFF - " + str(team_defense_ovr) + " DEF vs")
   print(opponent_1 + " - " + str(opponent_1_off) + " OFF - " + str(opponent_1_def) + " DEF")
-  team_score = random.randint(85,100) + int(team_offense_performance) - int(opponent_def_performance)
-  opponent_score = random.randint(85,100) + int(opponent_off_performance) - int(team_defense_performance)
+  team_score = random.randint(90,105) + int(team_offense_performance) - int(opponent_def_performance)
+  opponent_score = random.randint(90,105) + int(opponent_off_performance) - int(team_defense_performance)
   if team_score > opponent_score:
    see_results = input("Press Enter to Play Game ")
    print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
@@ -1587,11 +1821,11 @@ def new_play_game():
     team_score += random.randint(4,14)
     opponent_score += random.randint(4,14)
     if team_score > opponent_score:
-      see_results = input("Play overtime?")
+      see_results = input("Press Enter to Play Overtime")
       print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
       team_wins += 1
     elif team_score < opponent_score:
-      see_results = input("Play overtime?")
+      see_results = input("Press Enter to Play Overtime")
       print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
       team_losses += 1
     else:
@@ -1599,11 +1833,11 @@ def new_play_game():
       team_score += random.randint(4,14)
       opponent_score += random.randint(4,14)
       if team_score > opponent_score:
-        see_results = input("Play double overtime?")
+        see_results = input("Press Enter to Play Double Overtime")
         print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
         team_wins += 1
       elif team_score < opponent_score:
-        see_results = input("Play double overtime?")
+        see_results = input("Press Enter to Play Double Overtime")
         print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
         team_losses += 1
       else:
@@ -1649,8 +1883,8 @@ def new_play_playoff_game():
   opponent_1 = random.choice(team_loc) + " " + random.choice(team_adj) + random.choice(team_noun)
   print(team_name + " - " + str(team_offense_ovr) + " OFF - " + str(team_defense_ovr) + " DEF vs")
   print(opponent_1 + " - " + str(opponent_1_off) + " OFF - " + str(opponent_1_def) + " DEF")
-  team_score = random.randint(85,100) + int(team_offense_performance) - int(opponent_def_performance)
-  opponent_score = random.randint(85,100) + int(opponent_off_performance) - int(team_defense_performance)
+  team_score = random.randint(92,103) + int(team_offense_performance) - int(opponent_def_performance)
+  opponent_score = random.randint(92,103) + int(opponent_off_performance) - int(team_defense_performance)
   if team_score > opponent_score:
    see_results = input("Press Enter to Play Game ")
    print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
@@ -1668,11 +1902,11 @@ def new_play_playoff_game():
     team_score += random.randint(4,14)
     opponent_score += random.randint(4,14)
     if team_score > opponent_score:
-      see_results = input("Play overtime?")
+      see_results = input("Press Enter to Play Overtime")
       print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
       team_wins += 1
     elif team_score < opponent_score:
-      see_results = input("Play overtime?")
+      see_results = input("Press Enter to Play Overtime")
       print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
       team_losses += 1
     else:
@@ -1680,11 +1914,11 @@ def new_play_playoff_game():
       team_score += random.randint(4,14)
       opponent_score += random.randint(4,14)
       if team_score > opponent_score:
-        see_results = input("Play double overtime?")
+        see_results = input("Press Enter to Play Double Overtime")
         print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
         team_wins += 1
       elif team_score < opponent_score:
-        see_results = input("Play double overtime?")
+        see_results = input("Press Enter to Play Double Overtime")
         print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
         team_losses += 1
       else:
@@ -1719,31 +1953,29 @@ def get_mvp():
   mvp_name = random.choice(first_name) + " " + random.choice(last_name)
   fake_team_name = random.choice(team_loc) + " " + random.choice(team_adj) + random.choice(team_noun)
   mvp_wins_req = random.randint(5,9)
-  mvp_player_req = (19.5 + (.1 * random.randint(0,100)))
+  mvp_player_req = (20 + (.1 * random.randint(0,100)))
   if team_wins >= mvp_wins_req:
     if point_guard_offense + point_guard_defense + team_wins >= mvp_player_req:
       print(point_guard + " of the " + team_name + " has been named MVP! You should be proud")
       coach_mvps += 1
-      print()
     elif shooting_guard_offense + shooting_guard_defense + team_wins >= mvp_player_req:
       print(shooting_guard + " of the " + team_name + " has been named MVP! You should be proud")
       coach_mvps += 1
-      print()
     elif small_forward_offense + small_forward_defense + team_wins >= mvp_player_req:
       print(small_forward + " of the " + team_name + " has been named MVP! You should be proud")
       coach_mvps += 1
-      print()
     elif power_forward_offense + power_forward_defense + team_wins >= mvp_player_req:
       print(power_forward + " of the " + team_name + " has been named MVP! You should be proud")
       coach_mvps += 1
-      print()
     elif center_offense + center_defense + team_wins >= mvp_player_req:
       print(center + " of the " + team_name + " has been named MVP! You should be proud")
       coach_mvps += 1
-      print()
     else:
-      print(mvp_name + " of the " + fake_team_name + " has been named MVP")
-      print()
+      print(mvp_name + " of the " + fake_team_name + " has been named Rookie of the Year")
+    print()
+  else:
+    print(mvp_name + " of the " + fake_team_name + " has been named MVP")
+    print()
 
 
 
@@ -1811,7 +2043,10 @@ def get_roty():
       print()
     else:
       print(mvp_name + " of the " + fake_team_name + " has been named Rookie of the Year")
-      print()
+    print()
+  else:
+    print(mvp_name + " of the " + fake_team_name + " has been named Rookie of the Year")
+    print()
 
 
 
