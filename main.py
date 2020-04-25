@@ -1305,7 +1305,7 @@ def get_highlights():
     print(power_forward + "'s slam dunk " + random.choice(highlight_string))
     print()
   elif c_o_h == True:
-    print_deep_3()
+    print_dunk_1()
     print()
     print(center + "'s slam dunk " + random.choice(highlight_string))
     print()
@@ -1740,6 +1740,9 @@ def start_game_tutorial():
   global center_rookie
   global width
   line_1 = textwrap.wrap("This game is simple and entirely text-based. Your goal is to build the best possible team you can by drafting, signing and trading for players with high stats.")
+  for line in line_1:
+    print(textwrap.fill(line, width))
+  print()
   continuuuu = input("Press Enter to Continue ")
   print()
   print("You will start with a roster of randomly generated players. Each player will have 4 stats that you need to pay attention to:")
@@ -1757,9 +1760,6 @@ def start_game_tutorial():
     print(textwrap.fill(line, width))
   print()
   continuuuu = input("Press Enter to Continue ")
-  print()
-  for line in line_1:
-    print(textwrap.fill(line, width))
   print()
   line_9 = textwrap.wrap("First, choose your team name and location. If you leave them blank, a random name and location will be assigned to your team.")
   for line in line_9:
@@ -1793,7 +1793,7 @@ def start_game_tutorial():
   print()
   continue_game = input("Press Enter to Continue ")
   print()
-  line_5 = textwrap.wrap("Next, you will be able to sign a free agent. When signing a player, the free agent will immediately replace the player on your roster who shares his position. To sign a player, you must enter the player's name exactly. Signing a player will cost a given amount of money. If you don't want to sign anyone, press enter.")
+  line_5 = textwrap.wrap("Next, you will be able to sign a free agent. When signing a player, the free agent will immediately replace the player on your roster who shares his position. To sign a player, you must enter the player's name exactly. Signing a player will cost a given amount of money. You begin with $10 and earn an extra $4 - $8 every offseason. If you don't want to sign anyone, press enter.")
   for line in line_5:
     print(textwrap.fill(line, width))
   print()
@@ -1809,10 +1809,10 @@ def start_game_tutorial():
   print()
   continue_game = input("Press Enter to Continue ")
   print()
-  line_8 = textwrap.wrap("Before the season starts, you will be able to boost either your team's offense or defense through practice. To choose between offense or defense, enter 'OFF' or 'DEF'.")
-  print()
+  line_8 = textwrap.wrap("Before the season starts, you will be able to boost either your team's offense or defense by a random number through practice. To choose between offense or defense, enter 'OFF' or 'DEF'.")
   for line in line_8:
     print(textwrap.fill(line, width))
+  print()
   continuuuu = input("Press Enter to Continue ")
   print()
   get_strategy()
@@ -1950,8 +1950,6 @@ def start_game_tutorial():
   for line in line_7:
     print(textwrap.fill(line, width))
   print()
-  continuuuu = input("Press Enter to Continue ")
-  print()
   input("Press Enter to Continue ")
   print()
   get_roty()
@@ -1995,15 +1993,17 @@ def begin_program():
   tutu_ornah = input("Would you like a tutorial for you first season? (Yes, No) ").lower()
   print()
   if tutu_ornah == "Yes".lower() or tutu_ornah == "Y".lower():
+    print()
     start_game_tutorial()
   else:
+    print()
     start_game()
 
 
 
 team_loc = ["Scranton", "Chicago", "Kingston", "New York", "Tokyo", "Bangkok", "London", "Shanghai", "Dubai", "Singapore", "Hong Kong", "Barcelona", "Melbourne", "Beijing", "Denver", "Boston", "Los Angeles", "Las Vegas", "Berlin", "Rio De Janeiro", "Manchester", "Toronto", "Sydney", "New Orleans", "Kansas City", "Milwaukee", "Charlotte", "Houston", "Atlanta", "Miami", "Orlando", "Cleveland", "Baltimore", "Washington, D.C.", "Minneapolis", "Detroit", "Pheonix", "Indianapolis", "Pittsburgh", "Seattle", "St. Louis", "Dallas", "Philadelphia", "San Francisco", "Newark", "Mexico City", "Cairo", "Buenos Aires", "Lima", "Jacksonville", "Gainesville", "Oklahoma City", "Nashville", "San Antonio", "Louisville", "Memphis", "Charlotte", "Austin", "Tucson", "Columbus", "Granville", "Evanston", "Ocean City", "Providenciales", "San Jose", "Portland", "Salt Lake City", "Stowe", "Brooklyn", "Fort Lauderdale", "Utah", "Vancouver", "Florida", "New England", "East Coast", "West Coast", "Mid Atlantic", "Pacific", "Northeast", "Northwest", "Hawaii", "Honolulu", "Southeast", "Southwest"]
 team_adj = ["Red ", "Blue ", "Green ", "Fiery ", "Big ", "Quick ", "Great ", "Yellow ", "Orange ", "Pink ", "Purple ", "Frozen ", "Checkered ", "Striped ", "Dotted ", "Scary ", "Sea ", "Scarlet ", "Screaming ", "Wild ", "Haunted ", "Lethal ", "Mean ", "Mud ", "Raging ", "Deadly ", "Flipping ", "Risky ", "Mad ", "Elite ", "Bloody ", "Robust ", "Mighty ", "Fighting ", "Agile ", "Dead-Eye ", "Dangerous ", "United ", "Magic ", "Hot ", "Baby ", "Daring ", "Shattered ", "Gold ", "Silver ", "Violet ", "Platinum ", "Unbent ", "Invincible ", "Athletic ", "Iron ", "Metal ", "Twisted ", "Crazy ", "Striking ", "Sonic ", "Ice ", "Fire ", "Windy ", "Blazing ", "Smoking ", "Rebel ", "Zombie ", "Patriotic ", "Aero ", "Starry ", "Free ", "Dead ", "Long ", "Gray ", "" , "" , "" , "" , "" , "", "", "", "", "", "", "", "", "Diamond ", "Wood ", "Chrome ", "Lead ", "Mighty ", "Flying ", "River ", "Ocean ", "Desert ", "Sky ", "Armored ", "Unrelenting ", "Fearless ", "Global ", "Genius ", "Butter ", "Electic ", "Hard ", "Rock Solid ", "Wonder ", "Tin ", "Island " "Flash "]
-team_noun = ["Devils", "Demons", "Rangers", "Cats", "Rodents", "Knights", "Royals", "Cannons", "Lightning", "Fury", "Talons", "Tigers", "Sharks", "Swordfish", "Trout", "Fire", "Dogs", "Fangs", "Harpoons", "Hooks", "Guns", "Grizzlies", "Snow", "Sky", "Whales", "Whalers", "Dreams", "Captains", "Rampage", "Dinos", "Scorpions", "Spiders", "Turkeys", "Army", "Bones", "Zombies", "Crew", "Force", "Brutes", "Butchers", "Storm", "Bombs", "Gunners", "Hammerheads", "Angels", "Barbarians", "Squad", "Outlaws", "Rebels", "Reapers", "Nightmares", "Kingpins", "Pythons", "Serpents", "Beasts", "Robots", "Cows", "Bullies", "Bullseyes", "Arrows", "Slam", "Magic", "Lava", "Bulls", "Bears", "Thunder", "Helmets","Swords", "Shields", "T-Rexes", "Pelicans", "Seagulls", "Penguins", "Puffins", "Huskies", "Bulldogs", "Miners", "Pandas", "Dragons", "Jackets", "Steel", "Pirates", "Racers", "Reptiles", "Lunatics", "Chasers", "Gangsters", "Cardinals", "Patriots", "Rhinos", "Punches", "Kicks", "Uppercuts", "Piledrivers", "Cyborgs", "Stars", "Fruit", "Tenors", "Assassins", "Titans", "Missiles", "Colts", "Stallions", "Birds", "Eagles", "Divers", "Dynasty", "Comets", "Ducks", "Hawks", "Falcons", "Warriors", "Minnows", "Globes", "Brians", "Bobcats", "Claws", "Hammers", "Biscuits", "Motors", "Eels", "Thunder", "Flamingos", "Gang", "Terror", "Leaves", "Outlaws", "Predators", "Wings", "Boots"]
+team_noun = ["Devils", "Demons", "Rangers", "Cats", "Rodents", "Knights", "Royals", "Cannons", "Lightning", "Fury", "Talons", "Tigers", "Sharks", "Swordfish", "Trout", "Fire", "Dogs", "Fangs", "Harpoons", "Hooks", "Guns", "Grizzlies", "Snow", "Sky", "Whales", "Whalers", "Dreams", "Captains", "Rampage", "Dinos", "Scorpions", "Spiders", "Turkeys", "Army", "Bones", "Zombies", "Crew", "Force", "Brutes", "Butchers", "Storm", "Bombs", "Gunners", "Hammerheads", "Angels", "Barbarians", "Squad", "Outlaws", "Rebels", "Reapers", "Nightmares", "Kingpins", "Pythons", "Serpents", "Beasts", "Robots", "Cows", "Bullies", "Bullseyes", "Arrows", "Slam", "Magic", "Lava", "Bulls", "Bears", "Thunder", "Helmets","Swords", "Shields", "T-Rexes", "Pelicans", "Seagulls", "Penguins", "Puffins", "Huskies", "Bulldogs", "Miners", "Pandas", "Dragons", "Jackets", "Steel", "Pirates", "Racers", "Reptiles", "Lunatics", "Chasers", "Gangsters", "Cardinals", "Patriots", "Rhinos", "Punches", "Kicks", "Uppercuts", "Piledrivers", "Cyborgs", "Stars", "Fruit", "Tenors", "Assassins", "Titans", "Missiles", "Colts", "Stallions", "Birds", "Eagles", "Divers", "Dynasty", "Comets", "Ducks", "Hawks", "Falcons", "Warriors", "Minnows", "Globes", "Brians", "Bobcats", "Claws", "Hammers", "Biscuits", "Motors", "Eels", "Thunder", "Flamingos", "Gang", "Terror", "Leaves", "Outlaws", "Predators", "Wings", "Boots", "Bees", "Hive", "Minds"]
 
 
 def new_play_game():
@@ -2207,7 +2207,7 @@ def get_mvp():
       print(center + " of the " + team_name + " has been named MVP! You should be proud")
       coach_mvps += 1
     else:
-      print(mvp_name + " of the " + fake_team_name + " has been named Rookie of the Year")
+      print(mvp_name + " of the " + fake_team_name + " has been named MVP")
     print()
   else:
     print(mvp_name + " of the " + fake_team_name + " has been named MVP")
