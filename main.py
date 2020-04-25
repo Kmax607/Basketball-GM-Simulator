@@ -21,8 +21,8 @@ coach_mvps = 0
 coach_seasons = 0
 
 
-first_name = ["Max", "Joe", "Teddy", "Xavier", "Miguel", "Anthony", "Richie", "Jeff", "Ethan", "Josh", "Noah", "Eli", "Ed", "Troy", "Annie", "Shirley", "Dean", "Ben", "Jacob", "Kevin", "Christina", "Lou", "Mike", "Michael", "Patrick", "Len", "Paul", "CJ", "John", "Jon", "Ally", "Andre", "Pierce", "Rob", "Joel", "Jacoby", "Mark", "JJ", "Kate", "Katie", "Zach", "Coby", "Brian", "Alfred", "Lamar", "Deshaun", "Mitch", "Chase", "Will", "Roger", "Amy", "Scout", "Molly", "Anna", "Julie", "Julia", "Wendy", "Alex", "Gene", "Roslyn", "Austin", "Tavon", "Collin", "Jacoby", "Jonah", "Thomas", "Taylor", "James", "Mary", "Jen", "Susan", "Sarah", "David", "Abby", "Margaret", "Diane", "Warren", "Joey", "Robin", "Lily", "Monica", "Jim", "Pam", "Ryan", "Carson", "Kelly", "Stan", "Stanley", "Parker", "Marshall", "Brandon", "Kareem", "Jabari", "Logan", "Brittney", "Bridget", "Vincent", "Phil", "Brad", "Peter", "Randy", "Emmanuel", "Clark", "Ava", "Scott", "Adam", "Daniel", "Hannah", "Nelson", "Rick", "Morty", "Summer", "Jerry", "Homer", "Lisa", "Maggie", "Meg", "Chris", "Stew", "Tina", "Louise", "Bob", "Bobby", "Gabe", "Evan", "Rachel", "Emma", "Grace", "Kyle", "Kyra", "Carmen", "Carter", "Steve", "Steven", "Aaron", "Erin", "Charlie", "Morgan", "Quinn", "Robert", "Mack", "Jackson", "Haley", "Luke", "Lucas", "Luka", "Tatiana", "Katarina", "Oliver", "Rhonda", "Harrison", "Harry", "Carla", "May", "April", "June", "Hugh", "Cole", "Allen", "Kenny", "Kevin", "Gwen", "Stacy", "Jeff", "Derek", "Rose", "Jimmy", "Joakim", "Tyler", "Ty", "Nathan", "Nate", "Hila", "Jason", "Fred", "Carrie", "Frances", "Francis", "Malcolm", "Reese", "Hal", "Lois", "Frank", "Jess", "Brooke", "Nolan", "Niko", "Brennan", "Drew", "Dakota", "Olivia", "Tony", "Antonio", "Jack", "Jane", "Ron", "Jude", "Howard", "Bruce", "Doris", "Vandan", "Timothy", "Lane", "Alexis", "Emily", "Ashley", "Jessica", "Lauren", "Laurie", "John", "Michael", "Sam", "Andrew", "Caroline", "Dan", "Megan", "John", "Kyle", "Kyler", "Bruce"]
-last_name = ["Kraus", "Chaiken", "Harris", "Smith", "Johnson", "Wufsus", "Rudd", "Kruger", "Shah", "Winger", "Malone", "Barnes", "Bryant", "Ali", "Scott", "Edwards", "Patrick", "Hershey", "Belg", "Snow", "Stark", "Fields", "Kammen", "Greenberg", "Jackson", "Carter", "McGrane", "Kornfeld", "White", "Black", "Turner", "Thomson", "Cranston", "Banks", "Watson", "Young", "Venable", "Watt", "Werth", "Hendricks", "Gilfoyle", "Woods", "Pecan", "Haut", "Hooper", "Liu", "Austin", "Price", "Williams", "Collins", "Jones", "Davis", "Green", "Robinson", "Thomas", "Wright", "Taylor", "Gabriel", "Miller", "King", "Lee", "Lew", "Walker", "Hamilton", "James", "Hill", "Gonzales", "Beasley", "Hall", "Marshall", "Hoover", "Parker", "Houston", "Granger", "Brown", "Garcia", "Sanders", "Rodriguez", "Hernandez", "Wilson", "Anderson", "Moore", "Lee", "Perez", "Clark", "King", "Scott", "Torres", "Adams", "Nelson", "Bighetti", "Baker", "Roberts", "Evans", "Diaz", "Simpson", "Blake", "Griffin", "Lewis", "Evans", "Cox", "Carter", "Tanaka", "Suzuki", "Stoker", "Morgan", "Quinn", "Mack", "Amend", "May", "Vasquez", "Stills", "Miller", "Jeffrey", "Rose", "Butler", "Noah", "Gasol", "Glasnow", "Robinson", "Fielder", "Pera", "Happ", "Souza", "Lavine", "Klein", "Armisen", "Brownstein", "Perkins", "Wilkerson", "Olson", "Franklin", "Brooks", "Nolan", "Ryan", "Shedlock", "Schwartz", "Singer", "Reed", "Richards", "Swanson", "Bush", "Morris", "Potter", "Weasley", "Law", "Luck", "Burback", "Burke", "Shanahan", "Lynch", "Walsh", "Cain", "Kane", "Lane", "Michaels", "Matthews", "Evans", "Trubisky", "Murray", "Allen", "Jobs", "Jeffrey", "Barkley", "Coulton", "Phillips", "Ray"]
+first_name = ["Max", "Joe", "Teddy", "Xavier", "Miguel", "Anthony", "Richie", "Jeff", "Ethan", "Josh", "Noah", "Eli", "Ed", "Troy", "Annie", "Shirley", "Dean", "Ben", "Jacob", "Kevin", "Christina", "Lou", "Mike", "Michael", "Patrick", "Len", "Paul", "CJ", "John", "Jon", "Ally", "Andre", "Pierce", "Rob", "Joel", "Jacoby", "Mark", "JJ", "Kate", "Katie", "Zach", "Coby", "Brian", "Alfred", "Lamar", "Deshaun", "Mitch", "Chase", "Will", "Roger", "Amy", "Scout", "Molly", "Anna", "Julie", "Julia", "Wendy", "Alex", "Gene", "Roslyn", "Austin", "Tavon", "Collin", "Jacoby", "Jonah", "Thomas", "Taylor", "James", "Mary", "Jen", "Susan", "Sarah", "David", "Abby", "Margaret", "Diane", "Warren", "Joey", "Robin", "Lily", "Monica", "Jim", "Pam", "Ryan", "Carson", "Kelly", "Stan", "Stanley", "Parker", "Marshall", "Brandon", "Kareem", "Jabari", "Logan", "Brittney", "Bridget", "Vincent", "Phil", "Brad", "Peter", "Randy", "Emmanuel", "Clark", "Ava", "Scott", "Adam", "Daniel", "Hannah", "Nelson", "Rick", "Morty", "Summer", "Jerry", "Homer", "Lisa", "Maggie", "Meg", "Chris", "Stew", "Tina", "Louise", "Bob", "Bobby", "Gabe", "Evan", "Rachel", "Emma", "Grace", "Kyle", "Kyra", "Carmen", "Carter", "Steve", "Steven", "Aaron", "Erin", "Charlie", "Morgan", "Quinn", "Robert", "Mack", "Jackson", "Haley", "Luke", "Lucas", "Luka", "Tatiana", "Katarina", "Oliver", "Rhonda", "Harrison", "Harry", "Carla", "May", "April", "June", "Hugh", "Cole", "Allen", "Kenny", "Kevin", "Gwen", "Stacy", "Jeff", "Derek", "Rose", "Jimmy", "Joakim", "Tyler", "Ty", "Nathan", "Nate", "Hila", "Jason", "Fred", "Carrie", "Frances", "Francis", "Malcolm", "Reese", "Hal", "Lois", "Frank", "Jess", "Brooke", "Nolan", "Niko", "Brennan", "Drew", "Dakota", "Olivia", "Tony", "Antonio", "Jack", "Jane", "Ron", "Jude", "Howard", "Bruce", "Doris", "Vandan", "Timothy", "Lane", "Alexis", "Emily", "Ashley", "Jessica", "Lauren", "Laurie", "John", "Michael", "Sam", "Andrew", "Caroline", "Dan", "Megan", "John", "Kyle", "Kyler", "Bruce", "Andy", "Tanner", "Buzz", "Jessie", "Esteban", "Red"]
+last_name = ["Kraus", "Chaiken", "Harris", "Smith", "Johnson", "Wufsus", "Rudd", "Kruger", "Shah", "Winger", "Malone", "Barnes", "Bryant", "Ali", "Scott", "Edwards", "Patrick", "Hershey", "Belg", "Snow", "Stark", "Fields", "Kammen", "Greenberg", "Jackson", "Carter", "McGrane", "Kornfeld", "White", "Black", "Turner", "Thomson", "Cranston", "Banks", "Watson", "Young", "Venable", "Watt", "Werth", "Hendricks", "Gilfoyle", "Woods", "Pecan", "Haut", "Hooper", "Liu", "Austin", "Price", "Williams", "Collins", "Jones", "Davis", "Green", "Robinson", "Thomas", "Wright", "Taylor", "Gabriel", "Miller", "King", "Lee", "Lew", "Walker", "Hamilton", "James", "Hill", "Gonzales", "Beasley", "Hall", "Marshall", "Hoover", "Parker", "Houston", "Granger", "Brown", "Garcia", "Sanders", "Rodriguez", "Hernandez", "Wilson", "Anderson", "Moore", "Lee", "Perez", "Clark", "King", "Scott", "Torres", "Adams", "Nelson", "Bighetti", "Baker", "Roberts", "Evans", "Diaz", "Simpson", "Blake", "Griffin", "Lewis", "Evans", "Cox", "Carter", "Tanaka", "Suzuki", "Stoker", "Morgan", "Quinn", "Mack", "Amend", "May", "Vasquez", "Stills", "Miller", "Jeffrey", "Rose", "Butler", "Noah", "Gasol", "Glasnow", "Robinson", "Fielder", "Pera", "Happ", "Souza", "Lavine", "Klein", "Armisen", "Brownstein", "Perkins", "Wilkerson", "Olson", "Franklin", "Brooks", "Nolan", "Ryan", "Shedlock", "Schwartz", "Singer", "Reed", "Richards", "Swanson", "Bush", "Morris", "Potter", "Weasley", "Law", "Luck", "Burback", "Burke", "Shanahan", "Lynch", "Walsh", "Cain", "Kane", "Lane", "Michaels", "Matthews", "Evans", "Trubisky", "Murray", "Allen", "Jobs", "Jeffrey", "Barkley", "Coulton", "Phillips", "Ray", "Durand", "Coughlin", "Davison", "Davis", "Sosa", "Johnson", "Smith", "Bernard", "Schmitt", "Agnew", "Woodley", "Fox", "Dempsey"]
 
 
 position = ["PG", "SG", "SF", "PF", "C"]
@@ -366,7 +366,10 @@ def start_game():
   print_team()
   continue_game = input("Press Enter to Continue ")
   print()
-  print("Time for the draft! You have " + str(draft_picks) + " picks")
+  if draft_picks == 1:
+    print("Time for the draft! You have " + str(draft_picks) + " pick")
+  else:
+    print("Time for the draft! You have " + str(draft_picks) + " picks")
   print()
   while draft_picks > 0:
     draft()
@@ -533,6 +536,12 @@ def start_game():
   new_season()
     
 
+
+
+
+
+
+
 def new_season():
   global point_guard
   global shooting_guard
@@ -651,7 +660,7 @@ def new_season():
       power_forward_defense = random.randint(0, 8) + (.1 * random.randint(0, 19))
       power_forward_contract = random.randint(1, 3)
   if center_contract == 0:
-    resign_q = input(shooting_guard + "'s contract has expired. Would you like to renew it for " + str(renew_length_c) + " years for $" + str(renew_cost_c) + " (Yes, No) ").lower()
+    resign_q = input(center + "'s contract has expired. Would you like to renew it for " + str(renew_length_c) + " years for $" + str(renew_cost_c) + " (Yes, No) ").lower()
     print()
     if resign_q == "Yes".lower and money >= renew_cost_c:
       center_contract = renew_length_c
@@ -671,7 +680,10 @@ def new_season():
   print()
   continue_game = input("Press Enter to Continue ")
   print()
-  print("Time for the draft! You have " + str(draft_picks) + " picks")
+  if draft_picks == 1:
+    print("Time for the draft! You have " + str(draft_picks) + " pick")
+  else:
+    print("Time for the draft! You have " + str(draft_picks) + " picks")
   print()
   while draft_picks > 0:
     draft()
@@ -1252,7 +1264,7 @@ def get_highlights():
   pf_d_h = False
   c_o_h = False
   c_d_h = False
-  if pg_o_highlight >= 32:
+  if pg_o_highlight >= 30:
     pg_o_h = True
   if sg_o_highlight >= 28:
     sg_o_h = True
@@ -1260,9 +1272,9 @@ def get_highlights():
     sf_o_h = True
   if pf_o_highlight >= 29:
     pf_o_h = True
-  if c_o_highlight >= 32:
+  if c_o_highlight >= 29:
     c_o_h = True
-  if pg_d_highlight >= 33:
+  if pg_d_highlight >= 31:
     pg_d_h = True
   if sg_d_highlight >= 31:
     sg_d_h = True
@@ -1691,18 +1703,43 @@ def get_strategy():
 
 width = 800
 
-def begin_program():
+
+
+
+
+def start_game_tutorial():
+  global point_guard
+  global shooting_guard
+  global small_forward
+  global power_forward
+  global center
+  global team_offense_ovr
+  global team_defense_ovr
+  global draft_picks
+  global money
+  global point_guard_contract
+  global shooting_guard_contract
+  global small_forward_contract
+  global power_forward_contract
+  global center_contract
+  global team_wins
+  global team_losses
+  global coach_wins
+  global coach_losses
+  global coach_chips
+  global point_guard_age
+  global shooting_guard_age
+  global small_forward_age
+  global power_forward_age
+  global center_age
+  global coach_seasons
+  global point_guard_rookie
+  global shooting_guard_rookie
+  global small_forward_rookie
+  global power_forward_rookie
+  global center_rookie
   global width
-  print_dunk_1()
-  print()
-  print("Welcome to My GM Basketball!")
-  print()
-  continuuuu = input("Press Enter to Continue ")
-  print()
   line_1 = textwrap.wrap("This game is simple and entirely text-based. Your goal is to build the best possible team you can by drafting, signing and trading for players with high stats.")
-  for line in line_1:
-    print(textwrap.fill(line, width))
-  print()
   continuuuu = input("Press Enter to Continue ")
   print()
   print("You will start with a roster of randomly generated players. Each player will have 4 stats that you need to pay attention to:")
@@ -1721,11 +1758,40 @@ def begin_program():
   print()
   continuuuu = input("Press Enter to Continue ")
   print()
+  for line in line_1:
+    print(textwrap.fill(line, width))
+  print()
+  line_9 = textwrap.wrap("First, choose your team name and location. If you leave them blank, a random name and location will be assigned to your team.")
+  for line in line_9:
+    print(textwrap.fill(line, width))
+  print()
+  continuuuu = input("Press Enter to Continue ")
+  print()
+  get_team_name()
+  global team_name
+  print("Take a look at the " + team_name)
+  get_team_ovr()
+  print()
+  print_team()
+  continue_game = input("Press Enter to Continue ")
+  print()
   line_4 = textwrap.wrap("You will have multiple chances to improve your team. First, you will be able to draft rookies at the draft. When drafting a player, the rookie will immediately replace the player on your roster who shares his position. Rookies always have a contract length of 3 years. To draft a player, you must enter the player's name exactly. If you don't want to draft anyone, press enter.")
   for line in line_4:
     print(textwrap.fill(line, width))
   print()
   continuuuu = input("Press Enter to Continue ")
+  print()
+  if draft_picks == 1:
+    print("Time for the draft! You have " + str(draft_picks) + " pick")
+  else:
+    print("Time for the draft! You have " + str(draft_picks) + " picks")
+  print()
+  while draft_picks > 0:
+    draft()
+  print()
+  print("You have no remaining picks.")
+  print()
+  continue_game = input("Press Enter to Continue ")
   print()
   line_5 = textwrap.wrap("Next, you will be able to sign a free agent. When signing a player, the free agent will immediately replace the player on your roster who shares his position. To sign a player, you must enter the player's name exactly. Signing a player will cost a given amount of money. If you don't want to sign anyone, press enter.")
   for line in line_5:
@@ -1733,23 +1799,26 @@ def begin_program():
   print()
   continuuuu = input("Press Enter to Continue ")
   print()
+  free_agency()
+  print()
+  get_team_ovr()
+  print("Check out the new " + team_name + "!")
+  print()
+  get_team_ovr()
+  print_team()
+  print()
+  continue_game = input("Press Enter to Continue ")
+  print()
   line_8 = textwrap.wrap("Before the season starts, you will be able to boost either your team's offense or defense through practice. To choose between offense or defense, enter 'OFF' or 'DEF'.")
   print()
   for line in line_8:
     print(textwrap.fill(line, width))
   continuuuu = input("Press Enter to Continue ")
   print()
-  line_6 = textwrap.wrap("Finally, you will have one chance to trade one of your players at midseason. If you propose a trade, you will lose your team's boost from practice. To choose which player you're willing to trade, enter the player's position abbreviation (PG, SG, SF, PF, C). You will be offered another player with matching position in exchange for your player and 1 or 2 draft picks in next year's draft. When asked if you accept the trade, enter 'Yes' to accept it.")
-  for line in line_6:
-    print(textwrap.fill(line, width))
+  get_strategy()
+  print_team()
   print()
-  continuuuu = input("Press Enter to Continue ")
-  print()
-  line_7 = textwrap.wrap("After every season you will be faced with another draft and another round of free agency. You will get an additional $4 - $8 to spend on free agents or renewing contracts and each player on your roster will get 1 year older and lose a year on his current contract.")
-  for line in line_7:
-    print(textwrap.fill(line, width))
-  print()
-  continuuuu = input("Press Enter to Continue ")
+  continue_game = input("Press Enter to Continue ")
   print()
   line_8 = textwrap.wrap("Every season is 16 games long. You will have a chance at making the playoffs with 8 wins, and will be guaranteed a playoff spot with 10 wins.")
   for line in line_8:
@@ -1757,11 +1826,178 @@ def begin_program():
   print()
   continuuuu = input("Press Enter to Continue ")
   print()
-  print("Got all that?")
+  print("The season is about to begin")
   print()
-  start_or_not = input("Press Enter to Continue ")
+  continue_game = input("Press Enter to Continue ")
   print()
-  start_game()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  line_6 = textwrap.wrap("Finally, you will have one chance to trade one of your players at midseason. If you propose a trade, you will lose your team's boost from practice. To choose which player you're willing to trade, enter the player's position abbreviation (PG, SG, SF, PF, C). You will be offered another player with matching position in exchange for your player and 1 or 2 picks in next year's draft. When asked if you accept the trade, enter 'Yes' to accept it.")
+  for line in line_6:
+    print(textwrap.fill(line, width))
+  print()
+  continuuuu = input("Press Enter to Continue ")
+  print()
+  propose_trade()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  new_play_game()
+  print_record()
+  print()
+  get_highlights()
+  continue_game = input("Press Enter to Continue ")
+  print()
+  playoff_req = random.randint(8,10)
+  if team_wins >= playoff_req:
+   print(green(("Congratulations, the " + team_name + " made the playoffs!")))
+   print()
+   continue_game = input("Press Enter to Continue ")
+   print()
+   playoffs()
+  else:
+   print(red("The " + team_name + " have missed the playoffs. Better luck next year"))
+   print()
+  line_7 = textwrap.wrap("After every season you will be faced with another draft and another round of free agency. You will get an additional $4 - $8 to spend on free agents or renewing contracts and each player on your roster will get 1 year older and lose a year on his current contract. The best player will be awarded MVP and the best rookie will be named Rookie of the Year.")
+  for line in line_7:
+    print(textwrap.fill(line, width))
+  print()
+  continuuuu = input("Press Enter to Continue ")
+  print()
+  input("Press Enter to Continue ")
+  print()
+  get_roty()
+  input("Press Enter to Continue ")
+  print()
+  get_mvp()
+  input("Press Enter to Continue ")
+  print()
+  coach_wins += team_wins
+  coach_losses += team_losses
+  coach_seasons += 1
+  retire()
+  draft_picks += 3
+  money += random.randint(4,8)
+  point_guard_contract -= 1
+  shooting_guard_contract -= 1
+  small_forward_contract -= 1
+  power_forward_contract -= 1
+  center_contract -= 1
+  team_wins = 0
+  team_losses = 0
+  point_guard_age += 1
+  shooting_guard_age += 1
+  small_forward_age += 1
+  power_forward_age += 1
+  center_age += 1
+  new_season()
+
+
+
+
+
+def begin_program():
+  global width
+  print_dunk_1()
+  print()
+  print("Welcome to My GM Basketball!")
+  print()
+  continuuuu = input("Press Enter to Continue ")
+  print()
+  tutu_ornah = input("Would you like a tutorial for you first season? (Yes, No) ").lower()
+  print()
+  if tutu_ornah == "Yes".lower() or tutu_ornah == "Y".lower():
+    start_game_tutorial()
+  else:
+    start_game()
 
 
 
