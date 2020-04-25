@@ -21,8 +21,8 @@ coach_mvps = 0
 coach_seasons = 0
 
 
-first_name = ["Max", "Joe", "Teddy", "Xavier", "Miguel", "Anthony", "Richie", "Jeff", "Ethan", "Josh", "Noah", "Eli", "Ed", "Troy", "Annie", "Shirley", "Dean", "Ben", "Jacob", "Kevin", "Christina", "Lou", "Mike", "Michael", "Patrick", "Len", "Paul", "CJ", "John", "Jon", "Ally", "Andre", "Pierce", "Rob", "Joel", "Jacoby", "Mark", "JJ", "Kate", "Katie", "Zach", "Coby", "Brian", "Alfred", "Lamar", "Deshaun", "Mitch", "Chase", "Will", "Roger", "Amy", "Scout", "Molly", "Anna", "Julie", "Julia", "Wendy", "Alex", "Gene", "Roslyn", "Austin", "Tavon", "Collin", "Jacoby", "Jonah", "Thomas", "Taylor", "James", "Mary", "Jen", "Susan", "Sarah", "David", "Abby", "Margaret", "Diane", "Warren", "Joey", "Robin", "Lily", "Monica", "Jim", "Pam", "Ryan", "Carson", "Kelly", "Stan", "Stanley", "Parker", "Marshall", "Brandon", "Kareem", "Jabari", "Logan", "Brittney", "Bridget", "Vincent", "Phil", "Brad", "Peter", "Randy", "Emmanuel", "Clark", "Ava", "Scott", "Adam", "Daniel", "Hannah", "Nelson", "Rick", "Morty", "Summer", "Jerry", "Homer", "Lisa", "Maggie", "Meg", "Chris", "Stew", "Tina", "Louise", "Bob", "Bobby", "Gabe", "Evan", "Rachel", "Emma", "Grace", "Kyle", "Kyra", "Carmen", "Carter", "Steve", "Steven", "Aaron", "Erin", "Charlie", "Morgan", "Quinn", "Robert", "Mack", "Jackson", "Haley", "Luke", "Lucas", "Luka", "Tatiana", "Katarina", "Oliver", "Rhonda", "Harrison", "Harry", "Carla", "May", "April", "June", "Hugh", "Cole", "Allen", "Kenny", "Kevin", "Gwen", "Stacy", "Jeff", "Derek", "Rose", "Jimmy", "Joakim", "Tyler", "Ty", "Nathan", "Nate", "Hila", "Jason", "Fred", "Carrie", "Frances", "Francis", "Malcolm", "Reese", "Hal", "Lois", "Frank", "Jess", "Brooke", "Nolan", "Niko", "Brennan", "Drew", "Dakota", "Olivia", "Tony", "Antonio", "Jack", "Jane", "Ron", "Jude", "Howard", "Bruce", "Doris", "Vandan", "Timothy", "Lane", "Alexis", "Emily", "Ashley", "Jessica", "Lauren", "Laurie", "John", "Michael", "Sam", "Andrew", "Caroline", "Dan", "Megan", "John", "Kyle", "Kyler", "Bruce", "Andy", "Tanner", "Buzz", "Jessie", "Esteban", "Red"]
-last_name = ["Kraus", "Chaiken", "Harris", "Smith", "Johnson", "Wufsus", "Rudd", "Kruger", "Shah", "Winger", "Malone", "Barnes", "Bryant", "Ali", "Scott", "Edwards", "Patrick", "Hershey", "Belg", "Snow", "Stark", "Fields", "Kammen", "Greenberg", "Jackson", "Carter", "McGrane", "Kornfeld", "White", "Black", "Turner", "Thomson", "Cranston", "Banks", "Watson", "Young", "Venable", "Watt", "Werth", "Hendricks", "Gilfoyle", "Woods", "Pecan", "Haut", "Hooper", "Liu", "Austin", "Price", "Williams", "Collins", "Jones", "Davis", "Green", "Robinson", "Thomas", "Wright", "Taylor", "Gabriel", "Miller", "King", "Lee", "Lew", "Walker", "Hamilton", "James", "Hill", "Gonzales", "Beasley", "Hall", "Marshall", "Hoover", "Parker", "Houston", "Granger", "Brown", "Garcia", "Sanders", "Rodriguez", "Hernandez", "Wilson", "Anderson", "Moore", "Lee", "Perez", "Clark", "King", "Scott", "Torres", "Adams", "Nelson", "Bighetti", "Baker", "Roberts", "Evans", "Diaz", "Simpson", "Blake", "Griffin", "Lewis", "Evans", "Cox", "Carter", "Tanaka", "Suzuki", "Stoker", "Morgan", "Quinn", "Mack", "Amend", "May", "Vasquez", "Stills", "Miller", "Jeffrey", "Rose", "Butler", "Noah", "Gasol", "Glasnow", "Robinson", "Fielder", "Pera", "Happ", "Souza", "Lavine", "Klein", "Armisen", "Brownstein", "Perkins", "Wilkerson", "Olson", "Franklin", "Brooks", "Nolan", "Ryan", "Shedlock", "Schwartz", "Singer", "Reed", "Richards", "Swanson", "Bush", "Morris", "Potter", "Weasley", "Law", "Luck", "Burback", "Burke", "Shanahan", "Lynch", "Walsh", "Cain", "Kane", "Lane", "Michaels", "Matthews", "Evans", "Trubisky", "Murray", "Allen", "Jobs", "Jeffrey", "Barkley", "Coulton", "Phillips", "Ray", "Durand", "Coughlin", "Davison", "Davis", "Sosa", "Johnson", "Smith", "Bernard", "Schmitt", "Agnew", "Woodley", "Fox", "Dempsey"]
+first_name = ["Max", "Joe", "Teddy", "Xavier", "Miguel", "Anthony", "Richie", "Jeff", "Ethan", "Josh", "Noah", "Eli", "Ed", "Troy", "Annie", "Shirley", "Dean", "Ben", "Jacob", "Kevin", "Christina", "Lou", "Mike", "Michael", "Patrick", "Len", "Paul", "CJ", "John", "Jon", "Ally", "Andre", "Pierce", "Rob", "Joel", "Jacoby", "Mark", "JJ", "Kate", "Katie", "Zach", "Coby", "Brian", "Alfred", "Lamar", "Deshaun", "Mitch", "Chase", "Will", "Roger", "Amy", "Scout", "Molly", "Anna", "Julie", "Julia", "Wendy", "Alex", "Gene", "Roslyn", "Austin", "Tavon", "Collin", "Jacoby", "Jonah", "Thomas", "Taylor", "James", "Mary", "Jen", "Susan", "Sarah", "David", "Abby", "Margaret", "Diane", "Warren", "Joey", "Robin", "Lily", "Monica", "Jim", "Pam", "Ryan", "Carson", "Kelly", "Stan", "Stanley", "Parker", "Marshall", "Brandon", "Kareem", "Jabari", "Logan", "Brittney", "Bridget", "Vincent", "Phil", "Brad", "Peter", "Randy", "Emmanuel", "Clark", "Ava", "Scott", "Adam", "Daniel", "Hannah", "Nelson", "Rick", "Morty", "Summer", "Jerry", "Homer", "Lisa", "Maggie", "Meg", "Chris", "Stew", "Tina", "Louise", "Bob", "Bobby", "Gabe", "Evan", "Rachel", "Emma", "Grace", "Kyle", "Kyra", "Carmen", "Carter", "Steve", "Steven", "Aaron", "Erin", "Charlie", "Morgan", "Quinn", "Robert", "Mack", "Jackson", "Haley", "Luke", "Lucas", "Luka", "Tatiana", "Katarina", "Oliver", "Rhonda", "Harrison", "Harry", "Carla", "May", "April", "June", "Hugh", "Cole", "Allen", "Kenny", "Kevin", "Gwen", "Stacy", "Jeff", "Derek", "Rose", "Jimmy", "Joakim", "Tyler", "Ty", "Nathan", "Nate", "Hila", "Jason", "Fred", "Carrie", "Frances", "Francis", "Malcolm", "Reese", "Hal", "Lois", "Frank", "Jess", "Brooke", "Nolan", "Niko", "Brennan", "Drew", "Dakota", "Olivia", "Tony", "Antonio", "Jack", "Jane", "Ron", "Jude", "Howard", "Tavon", "Bruce", "Doris", "Vandan", "Timothy", "Lane", "Alexis", "Emily", "Ashley", "Jessica", "Lauren", "Laurie", "John", "Michael", "Sam", "Andrew", "Caroline", "Dan", "Megan", "John", "Kyle", "Kyler", "Bruce", "Andy", "Tanner", "Buzz", "Jessie", "Esteban", "Red", "Marshawn", "Darius", "Carmello"]
+last_name = ["Kraus", "Chaiken", "Harris", "Smith", "Johnson", "Wufsus", "Rudd", "Kruger", "Shah", "Winger", "Malone", "Barnes", "Bryant", "Ali", "Scott", "Edwards", "Patrick", "Hershey", "Belg", "Snow", "Stark", "Fields", "Kammen", "Greenberg", "Jackson", "Carter", "McGrane", "Kornfeld", "White", "Black", "Turner", "Thomson", "Cranston", "Banks", "Watson", "Young", "Venable", "Watt", "Werth", "Hendricks", "Gilfoyle", "Woods", "Pecan", "Haut", "Hooper", "Liu", "Austin", "Price", "Williams", "Collins", "Jones", "Davis", "Green", "Robinson", "Thomas", "Wright", "Taylor", "Gabriel", "Miller", "King", "Lee", "Lew", "Walker", "Hamilton", "James", "Hill", "Gonzales", "Beasley", "Hall", "Marshall", "Hoover", "Parker", "Houston", "Granger", "Brown", "Garcia", "Sanders", "Rodriguez", "Hernandez", "Wilson", "Anderson", "Moore", "Lee", "Perez", "Clark", "King", "Scott", "Torres", "Adams", "Nelson", "Bighetti", "Baker", "Roberts", "Evans", "Diaz", "Simpson", "Blake", "Griffin", "Lewis", "Evans", "Cox", "Carter", "Tanaka", "Suzuki", "Stoker", "Morgan", "Quinn", "Mack", "Amend", "May", "Vasquez", "Stills", "Miller", "Jeffrey", "Rose", "Butler", "Noah", "Gasol", "Glasnow", "Robinson", "Fielder", "Pera", "Happ", "Souza", "Lavine", "Klein", "Armisen", "Brownstein", "Perkins", "Wilkerson", "Olson", "Franklin", "Brooks", "Nolan", "Ryan", "Shedlock", "Schwartz", "Singer", "Reed", "Richards", "Swanson", "Bush", "Morris", "Potter", "Weasley", "Law", "Luck", "Burback", "Burke", "Shanahan", "Lynch", "Walsh", "Cain", "Kane", "Lane", "Michaels", "Matthews", "Evans", "Trubisky", "Murray", "Allen", "Jobs", "Jeffrey", "Barkley", "Coulton", "Phillips", "Ray", "Durand", "Coughlin", "Davison", "Davis", "Sosa", "Johnson", "Smith", "Bernard", "Schmitt", "Agnew", "Woodley", "Fox", "Dempsey", "Wrigley", "Burrow", "Proche", "Robertson", "Robinson", "Lynch", "Wallace"]
 
 
 position = ["PG", "SG", "SF", "PF", "C"]
@@ -373,7 +373,6 @@ def start_game():
   print()
   while draft_picks > 0:
     draft()
-  print()
   print("You have no remaining picks.")
   print()
   continue_game = input("Press Enter to Continue ")
@@ -966,6 +965,7 @@ def draft():
   draft_age_1 = random.randint(19, 24)
   draft_age_2 = random.randint(19, 24)
   draft_age_3 = random.randint(19, 24)
+  print()
   print("You're on the clock! Here are all the available players:")
   choice_1 = random.choice(first_name) + " " + random.choice(last_name)
   choice_2 = random.choice(first_name) + " " + random.choice(last_name)
@@ -1114,7 +1114,7 @@ def draft():
        center_defense = choice_3_defense
        center_contract = 3
        center_age = draft_age_3
-       point_guard_rookie = True
+       center_rookie = True
      get_team_ovr()
      print()
      print_team()
@@ -1788,7 +1788,6 @@ def start_game_tutorial():
   print()
   while draft_picks > 0:
     draft()
-  print()
   print("You have no remaining picks.")
   print()
   continue_game = input("Press Enter to Continue ")
@@ -2057,23 +2056,24 @@ def new_play_game():
     team_score += random.randint(4,14)
     opponent_score += random.randint(4,14)
     if team_score > opponent_score:
-      see_results = input("Press Enter to Play Overtime")
+      see_results = input("Press Enter to Play Overtime ")
       print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
       team_wins += 1
     elif team_score < opponent_score:
-      see_results = input("Press Enter to Play Overtime")
+      see_results = input("Press Enter to Play Overtime ")
       print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
       team_losses += 1
     else:
-      print("The game went into overtime!")
-      team_score += random.randint(4,14)
-      opponent_score += random.randint(4,14)
+      print(str(team_score) + " - " + str(opponent_score))
+      print("The game went into double overtime!")
+      team_score += random.randint(4,15)
+      opponent_score += random.randint(4,15)
       if team_score > opponent_score:
-        see_results = input("Press Enter to Play Double Overtime")
+        see_results = input("Press Enter to Play Double Overtime ")
         print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
         team_wins += 1
       elif team_score < opponent_score:
-        see_results = input("Press Enter to Play Double Overtime")
+        see_results = input("Press Enter to Play Double Overtime ")
         print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
         team_losses += 1
       else:
@@ -2138,23 +2138,24 @@ def new_play_playoff_game():
     team_score += random.randint(4,14)
     opponent_score += random.randint(4,14)
     if team_score > opponent_score:
-      see_results = input("Press Enter to Play Overtime")
+      see_results = input("Press Enter to Play Overtime ")
       print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
       team_wins += 1
     elif team_score < opponent_score:
-      see_results = input("Press Enter to Play Overtime")
+      see_results = input("Press Enter to Play Overtime ")
       print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
       team_losses += 1
     else:
-      print("The game went into double overtime!")
-      team_score += random.randint(4,14)
-      opponent_score += random.randint(4,14)
+      print(str(team_score) + " - " + str(opponent_score))
+      print("The game went into overtime!")
+      team_score += random.randint(4,15)
+      opponent_score += random.randint(4,15)
       if team_score > opponent_score:
-        see_results = input("Press Enter to Play Double Overtime")
+        see_results = input("Press Enter to Play Double Overtime ")
         print(green("The " + team_name + " win " + str(team_score) + " - " + str(opponent_score)))
         team_wins += 1
       elif team_score < opponent_score:
-        see_results = input("Press Enter to Play Double Overtime")
+        see_results = input("Press Enter to Play Double Overtime ")
         print(red("The " + opponent_1 + " win " + str(opponent_score) + " - " + str(team_score)))
         team_losses += 1
       else:
@@ -2189,7 +2190,7 @@ def get_mvp():
   mvp_name = random.choice(first_name) + " " + random.choice(last_name)
   fake_team_name = random.choice(team_loc) + " " + random.choice(team_adj) + random.choice(team_noun)
   mvp_wins_req = random.randint(5,9)
-  mvp_player_req = (20 + (.1 * random.randint(0,100)))
+  mvp_player_req = (20 + (.1 * random.randint(0,120)))
   if team_wins >= mvp_wins_req:
     if point_guard_offense + point_guard_defense + team_wins >= mvp_player_req:
       print(point_guard + " of the " + team_name + " has been named MVP! You should be proud")
